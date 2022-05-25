@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Pablo_Sirvent_Cañada
+build_property.ProjectDir = D:\Cosas de Clase\Repositorios\Pablo-Sirvent-Ca-ada-Examen-Entornos\Pablo Sirvent Cañada\Pablo Sirvent Cañada\
